@@ -1,0 +1,11 @@
+text,label
+I want a refund for my last purchase,billing_issue
+How can I reset my password?,account_help
+What is your return policy?,policy_query
+My app keeps crashing when I open it,technical_issue
+I need help updating my billing address,billing_issue
+Can you tell me about your premium plan?,sales_query
+I'm unable to login to my account,account_help
+Where can I track my order?,order_help
+The product I received is defective,technical_issue
+Please cancel my subscription,billing_issue
