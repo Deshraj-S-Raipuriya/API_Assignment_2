@@ -8,7 +8,8 @@ app = FastAPI()
 # OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 # HF_API_KEY = os.getenv('HF_API_KEY')
 
-
+OPENAI_API_KEY = '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'
+HF_API_KEY = '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'
 
 class ChatRequest(BaseModel):
     user_id: str

@@ -2,7 +2,7 @@ from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('gpt-5-pretty-spry')
 passages = [
     'How to reset password?',
     'Refund policy for orders under 30 days',
